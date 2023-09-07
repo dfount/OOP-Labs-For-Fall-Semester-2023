@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int number, binary = 0, remainder, product = 1;
+	cout << "Choose any number greater than 0 to convert into binary: ";
+	cin >> number;
+	while (number != 0)
+	{
+		remainder = number % 2;
+		product *= 10;
+		binary = binary + (remainder * product);
+		number = number / 2;
+		
+	}
+	cout << "The binary conversion is: " << binary;
+	return 0;
+}
