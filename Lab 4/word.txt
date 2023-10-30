@@ -1,6 +1,0 @@
-words
-text
-today
-t
-y
-o
