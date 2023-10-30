@@ -1,0 +1,5 @@
+﻿  ItemToPurchase.cpp
+  main.cpp
+C:\Users\1\source\repos\Lab 6\Lab 6\main.cpp(32,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Lab 6.vcxproj -> C:\Users\1\source\repos\Lab 6\x64\Debug\Lab 6.exe
